@@ -1,0 +1,31 @@
+{
+  "name": "teamcity-formatter",
+  "version": "0.1.0",
+  "description": "Prints pretty output that TeamCity continuous integration tool can pick up.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cube-io/teamcity-formatter"
+  },
+  "keywords": [
+    "teamcity",
+    "cucumber",
+    "cucumber-js",
+    "format",
+    "formatter",
+    "test"
+  ],
+  "author": "CubeIO A/S <devs@cubeio.com> (http://cubeio.com)",
+  "contributors": [
+    "Sven J. Hermann <sjh@cubeio.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cube-io/teamcity-formatter/issues"
+  },
+  "homepage": "https://github.com/cube-io/teamcity-formatter",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
