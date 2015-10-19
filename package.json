@@ -1,6 +1,6 @@
 {
   "name": "teamcity-formatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prints pretty output that TeamCity continuous integration tool can pick up.",
   "main": "index.js",
   "repository": {
